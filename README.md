@@ -1,3 +1,2 @@
 # Juan Martin
-[Link cv.md]
-
+[Link] (https://github.com/juanMartinRodrigo/git/blob/master/cv.md)
